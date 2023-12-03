@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DevelopTools/Microsoft VS Code/Project/GitHub/Sort",
-      "program": "d:/DevelopTools/Microsoft VS Code/Project/GitHub/Sort/build/Debug/outDebug",
+      "cwd": "d:/DevelopTools/Microsoft VS Code/Project/GitHub/Sort/BinarySearch",
+      "program": "d:/DevelopTools/Microsoft VS Code/Project/GitHub/Sort/BinarySearch/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
