@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int BinarySearch(vector<int> vec, int tarValue, int leftIndex, int rightIndex);
+int BinarySearch(vector<int>& vec, int tarValue, int leftIndex, int rightIndex);
 int main()
 {
     vector<int> vec = {1, 2, 5, 8, 9, 10, 17, 20};
@@ -10,7 +10,7 @@ int main()
     cout << ret << endl;
 }
 
-int BinarySearch(vector<int> vec, int tarValue, int leftIndex, int rightIndex)
+int BinarySearch(vector<int>& vec, int tarValue, int leftIndex, int rightIndex)
 {
     if (leftIndex > rightIndex)
     {
