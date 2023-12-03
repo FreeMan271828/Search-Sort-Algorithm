@@ -1,9 +1,12 @@
 # Sort
 
-1. 日志：
-    1. 最近修改时间：2023/12/3
-    2. 提交人：黄施远
-2. 此代码库是实现各种排序算法
-3. 提醒事项1：在使用时需要修改launch.json的cwd和program路径
-4. 提醒事项2：修改编译器路径
-5. 提醒事项3：该项目使用VS Code开发，整体已经内嵌一个编译文件，每个子文件夹也已经内嵌一个编译文件，按需进行更改。
+1. This repository is an implementation of various sorting algorithms.
+2. Code Log
+   1. Last Modified: 2023/12/3
+   2. Commiter: FreeMan 
+3. Warning:
+   1. You need to change the cwd and program paths of launch.json before using it.
+   2. You need to modify the compiler path before using it.
+   3. The project was developed using VS Code, with a compiled file already embedded in the whole, and a compiled file already embedded in each subfolder to make changes as needed.
+4. Coding style
+   1. All left and right boundaries are left closed and right open.
