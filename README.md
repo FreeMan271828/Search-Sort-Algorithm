@@ -1,4 +1,4 @@
-# Sort
+# Search-Algorithm
 
 1. This repository is an implementation of various sorting algorithms.
 2. Code Log
